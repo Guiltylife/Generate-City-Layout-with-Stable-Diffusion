@@ -6,19 +6,19 @@
 
 ## 多模型方法
 
-![Multiple Model Approach](images/Multiple Model Approach.png)
+![Multiple Model Approach](images/Multiple_Model_Approach.png)
 
 ## 数据集
 
-![Data Collection](images/Data Collection.png)
+![Data Collection](images/Data_Collection.png)
 
 ## 生成的布局图
 
 ### 单模型方法
 
-![Single Model Generated Images](images/Single Model Generated Images.png)
+![Single Model Generated Images](images/Single_Model_Generated_Images.png)
 
 ### 多模型方法
 
-![Multiple Model Generated Images](images/Multiple Model Generated Images.png)
+![Multiple Model Generated Images](images/Multiple_Model_Generated_Images.png)
 
