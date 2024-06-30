@@ -2,7 +2,7 @@
 
 ## 单模型方法
 
-![Single Model Approach](images/Single Model Approach.png)
+![Single Model Approach](images/Single_Model_Approach.png)
 
 ## 多模型方法
 
